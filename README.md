@@ -17,7 +17,7 @@ Créez une table dans la base de données :Sélectionnez la base de données que
 Définissez le nombre de colonnes"3", leurs noms"id et Title et Description", types de données id:int(255)AUTO_INCREMENT,2 Title:varchar(255);3	Description:varchar(255), etc., puis cliquez sur "Enregistrer" pour créer la table.
 
 5 Accédez au fichier via votre navigateur :
-Ouvrez votre navigateur web et accédez à l'URL locale correspondant au fichier que vous avez placé. Par exemple, si vous avez placé votre fichier dans htdocs avec XAMPP, l'URL pourrait ressembler à http://localhost/informationTableaux.php/.
+Ouvrez votre navigateur web et accédez à l'URL locale correspondant au fichier que vous avez placé. Par exemple, si vous avez placé votre fichier dans htdocs avec XAMPP, l'URL pourrait ressembler à http://localhost/informationsDansTableaux-main/
 
 6 Vérifiez le fonctionnement du fichier PHP :
 Assurez-vous que le fichier PHP s'affiche correctement dans votre navigateur sans erreurs. Si des erreurs surviennent, vérifiez le code PHP et corrigez les problèmes ou connecter avec moi.
