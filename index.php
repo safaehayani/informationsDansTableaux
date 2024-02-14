@@ -54,7 +54,6 @@ if (isset($_GET['id'])) {
                 <input type="hidden" name="id" value="<?php if (isset($id)) echo $id; ?>">
                 <input type="text" name="Title" placeholder="Entrer votre Title" value="<?php if (isset($Title)) echo $Title; ?>"><br><br>
                 <input type="text" name="Description" placeholder="Entrer votre Description" value="<?php if (isset($Description)) echo $Description; ?>"><br><br>
-                <input type="file" name="image" placeholder="" value="<?php if (isset($Image)) echo $Image; ?>"><br><br>
                 <button type="submit">
                     <?php
                     if (isset($id)) {
